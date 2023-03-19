@@ -11,5 +11,5 @@ student = { "name":"Mary",
 print(f"Student: {student['name']} ")
 
 for module in student["modules"]:
-    print(f"\t {module["courseName"]} \n\t{module["grade"]}")
+    print(f"\t {module['courseName']} \n\t{module['grade']}")
    
